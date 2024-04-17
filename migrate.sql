@@ -24,5 +24,5 @@ INSERT INTO cities (idx, name, lat, lng)
 VALUES 
   (1616, 'Taichung', 24.151958, 120.641092),
   (1596, 'Taipei', 25.062361, 121.526528),
-  (12548, 'Pietermaritzburg', -25.637538, 30.337389),
+  (12548, 'Pietermaritzburg', -29.637583, 30.337389),
   (10100, 'Rotherham', 53.40495, -1.455815);
