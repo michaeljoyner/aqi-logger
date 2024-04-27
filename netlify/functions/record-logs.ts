@@ -32,6 +32,7 @@ export default async (req: Request) => {
       });
     } catch (err) {
       console.log(err);
+      throw err;
     }
   });
 };
